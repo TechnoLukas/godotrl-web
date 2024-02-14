@@ -48,6 +48,7 @@
                 }
 			}
 			async function exec1(a,m){// m model index
+				//console.log(a[0])
 				try{
 				    
 					var output=new Array();
@@ -68,7 +69,7 @@
                      // read from results
                      output.push(results.output.data);
 					 }
-					 //console.log(output);
+					 //console.log("number of actions : ",output[0].length);
 					 window.godotFunctions.cbExec1(output);
 					}
 					catch(e){
@@ -87,7 +88,7 @@
         <canvas id="canvas"></canvas>
         <script src="index.js"></script>
         <script>
-            var engine = new Engine({"args":[],"canvasResizePolicy":2,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":137664,"index.wasm":46072530},"focusCanvas":true,"gdextensionLibs":[]});
+            var engine = new Engine({"args":[],"canvasResizePolicy":2,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":148032,"index.wasm":49219187},"focusCanvas":true,"gdextensionLibs":[]});
             engine.startGame();
         </script>
     </body>
