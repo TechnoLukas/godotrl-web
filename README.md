@@ -1,8 +1,10 @@
 # GodotRL Web
 
+based on https://github.com/edbeeching/godot_rl_agents
+
 Godot Rl support for web to play and use in the browser.
 
-To watch web demo => (wil take ~20 sec to load) https://technolukas.github.io/godotrl-web-webapp/
+To watch web demo => (will take ~20 sec to load) https://technolukas.github.io/godotrl-web-webapp/
 
 ---
 
@@ -28,5 +30,13 @@ Amount of agents on the scene that uses this model
 
 ## - `Content`
 Completly removed any sign of .NET
+
 So this project is not .NET dependent
+
+## minimal-onnxruntime.html
+![image](https://github.com/TechnoLukas/godotrl-web/assets/110934679/d441a1a5-a1f1-45b8-8e0d-d5169e651155)
+
+"Custom HTML Shell"
+
+for simpler explanation I used [minimal.html](https://docs.godotengine.org/en/stable/tutorials/platform/web/customizing_html5_shell.html) instead of full, that is why there is a white screen, and no loading indicator.
 
