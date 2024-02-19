@@ -1,6 +1,6 @@
 # GodotRL Web
 
-based on https://github.com/edbeeching/godot_rl_agents
+Based on great project 😊 https://github.com/edbeeching/godot_rl_agents
 
 Godot Rl support for web to play and use in the browser.
 
