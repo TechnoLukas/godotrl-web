@@ -1,4 +1,4 @@
-![image](https://github.com/TechnoLukas/godotrl-web/assets/110934679/df4585ee-48cb-4a2f-a453-92cd4e219089)
+![image](godotrl-web-banner.png)
 
 
 
