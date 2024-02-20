@@ -1,3 +1,7 @@
+![image](https://github.com/TechnoLukas/godotrl-web/assets/110934679/df4585ee-48cb-4a2f-a453-92cd4e219089)
+
+
+
 # GodotRL Web
 
 Based on great project 😊 https://github.com/edbeeching/godot_rl_agents
@@ -6,6 +10,9 @@ Godot Rl support for web to play and use in the browser.
 
 To watch web demo => (will take ~20 sec to load) https://technolukas.github.io/godotrl-web-webapp/
 
+---
+# Showcase:
+![image](https://github.com/TechnoLukas/godotrl-web/assets/110934679/49da6695-539e-4ea5-af35-b0fa9a532bfa)
 ---
 
 # Changes I made in plugin:
