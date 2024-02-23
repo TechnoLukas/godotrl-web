@@ -6,6 +6,8 @@
 
 Based on great project 😊 https://github.com/edbeeching/godot_rl_agents
 
+Discord server => https://discord.gg/c5CeA4phvh   Will be more than happy to chat and help somebody. 
+
 Godot Rl support for web to play and use in the browser.
 
 To watch web demo => (will take ~20 sec to load) https://technolukas.github.io/godotrl-web-webapp/
